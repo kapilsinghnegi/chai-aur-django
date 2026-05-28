@@ -1,7 +1,5 @@
 # Jinja2 and Django Apps
 
-# Django Apps & Jinja Templates — Concise Notes
-
  ## 1\. Jinja / Django Templates
 
  - Django uses the **Django Template Language (DTL)** by default.

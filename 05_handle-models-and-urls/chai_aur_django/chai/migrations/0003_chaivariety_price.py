@@ -6,12 +6,12 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('chai', '0002_chaivarity_description'),
+        ('chai', '0002_chaivariety_description'),
     ]
 
     operations = [
         migrations.AddField(
-            model_name='chaivarity',
+            model_name='chaivariety',
             name='price',
             field=models.FloatField(default=0),
         ),
